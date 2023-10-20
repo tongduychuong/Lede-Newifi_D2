@@ -1,4 +1,4 @@
-# OpenWrt firmware for Newifi D2
+# Immortalwrt firmware for R7500
 
 Auto build OpenWrt firmware for Newifi D2 via GitHub Actions
 
