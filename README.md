@@ -1,4 +1,4 @@
-# Openwrt firmware for R7500 V2 with NSS Driver from ACwifidude/openwrt
+# Openwrt firmware for R7500 V2 with NSS Driver
 
 Auto build Openwrt firmware for R7500 V2 via GitHub Actions
 
