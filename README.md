@@ -1,4 +1,4 @@
-# Openwrt firmware for R7500 V2 with NSS Driver
+# OpenWrt v21.02.7 firmware for R7500 V2 with NSS Driver
 
 Auto build Openwrt firmware for R7500 V2 via GitHub Actions
 
